@@ -41,3 +41,25 @@ margin-bottom: 20px;}
     nav ul li{ display: inline-block;margin: 25px;}
     nav{float: right;}
     
+
+    
+
+    button{
+        margin: 10px;;color: #000  solid; 
+        padding: 5px; height: 250px; width: 31%;
+         background-color: white;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       text-align: center;
+       border-color:red;
+       align-content: center;
+       font-size: medium;
+    }
+      
+
+    footer{
+
+        background-color:whitesmoke;
+        margin-left: 10px;width: 100%;height: 125px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: italic; text-align: center;
+    }
