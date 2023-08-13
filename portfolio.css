@@ -44,14 +44,14 @@ margin-bottom: 20px;}
 
     img{ justify-content: center; margin-top: 5px;
       
-      max-width: 100%;
-      height: auto;
+      max-width: 45%;
+      height:auto;
       }
 
 
     button{
         margin: 9px;;color: #000  solid; 
-        padding: 5px; height: 250px; width: 400px;
+        padding: 5px; height: 450px; width: 850px;
          background-color: white;
          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
        text-align: center;
@@ -62,8 +62,8 @@ margin-bottom: 20px;}
     }
       
 
-    .box {
-      border: ;
+    .portfolio {
+      border: 15px;
       background-color: lightgray;
       padding: 40px;
       margin: 40px;
@@ -75,16 +75,16 @@ margin-bottom: 20px;}
       box-sizing: border-box;
     }
         
-       
+    
   
 
     .column {
-        width: 100%;
+        width: 10%;
       }
       
-      @media (min-width: 600px) {
+      @media (min-width: 60px) {
         .column {
-          width: 50%;
+          width: 100%;
         }
       }
 
